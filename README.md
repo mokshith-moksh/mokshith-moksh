@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Mokshith S<br><br>A passionate developer from India 🇮🇳<br><br>- 🌱 I’m currently learning DevOps, Angular<br><br>- 💻 All of my projects are available on [GitHub](https://github.com/mokshith-moksh)<br><br>- 📽️ [My Youtube  Channel](https://www.youtube.com/@codeinProjects3295)<br><br>- 💬 Ask me about Programming, WEB Development<br><br>- 📫 Reach out to me at **mokshithmokshith7@gmail.com**
 
-I completed my contributions for Hacktoberfest 2024 in time to earn the badge.
+- I completed my contributions for Hacktoberfest 2024 in time to earn the badge.
 
 [![An image of @mokshithmoksh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mokshithmoksh)](https://holopin.io/@mokshithmoksh)
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mokshith S<br><br>A passionate developer from India 🇮🇳<br><br>- 🌱 I’m currently learning ** DevOps**<br><br>- 💻 All of my projects are available on [GitHub](https://github.com/mokshith-moksh)<br><br>- 📽️ [My Youtube  Channel](https://www.youtube.com/@codeinProjects3295)<br><br>- 💬 Ask me about Programming, WEB Development<br><br>- 📫 Reach out to me at **mokshithmokshith7@gmail.com**
+Hi 👋, I'm Mokshith S<br><br>A passionate developer from India 🇮🇳<br><br>- 🌱 I’m currently learning DevOps, Angular<br><br>- 💻 All of my projects are available on [GitHub](https://github.com/mokshith-moksh)<br><br>- 📽️ [My Youtube  Channel](https://www.youtube.com/@codeinProjects3295)<br><br>- 💬 Ask me about Programming, WEB Development<br><br>- 📫 Reach out to me at **mokshithmokshith7@gmail.com**
 
 
 ## 🌐 Socials:
